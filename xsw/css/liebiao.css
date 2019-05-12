@@ -1,0 +1,8 @@
+@charset "utf-8";
+main{min-height:400px;}
+main .sg{display:flex;justify-content: space-between;flex-wrap:wrap;}
+main .sg li{padding:35px 50px;}
+main .sg li p{text-align: center;font-size: 12px;margin-top:20px;}
+main .sg li p .sl{width:40px}
+main .sg li .car{background:orange;line-height:30px;font-size:20px;cursor: pointer; border-radius:5px;}
+main .sg img{width:100px;height:100px;}

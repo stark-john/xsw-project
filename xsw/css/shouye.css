@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+
+
+#banner{height:300px;position: relative;overflow: hidden;}
+#banner .imgbox{height:300px;position:absolute}
+#banner .imgbox a{float:left;}
+#banner .imgbox a:nth-child(1){z-index:1;}
+#banner .imgbox a img{width:1000px;height:300px;}
+#banner .btns input{width:50px;height:50px;border:none;background:rgba(250,250,250,0.6);
+position: absolute;top:125px;z-index:2;cursor: pointer;}
+#left{left:0;}
+#right{right:0;}
+
+
+
+
+
+#sg .case{margin-top:80px;}
+#sg .title{display:flex;justify-content: space-between;font-size:30px;margin-top:15px;}
+#sg .sg{display:flex;justify-content:space-between;margin-top:10px;}
+#sg .sg img{width:150px;height:200px;}
+#sg .sg p {text-align:center;font-size: 20px;margin-top:10px; }

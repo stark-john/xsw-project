@@ -1,0 +1,11 @@
+@charset "utf-8";
+#main{min-height: 400px;}
+#main .car1{width:200px;}
+#main .sl{width:200px; }
+#main .sl .num{text-align: center; } 
+#main td{text-align:center;}
+#main .dele{cursor: pointer;}
+#main .tj li{text-align:right;padding-right: 50px;font-size:40px;}
+#main .tj li .zjs{color:red;}
+#main .tj li .price{color:red;}
+#main .tj li .xd{background:orangered;border-radius:5px;}

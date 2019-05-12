@@ -1,0 +1,83 @@
+﻿[
+	{
+				"goodsId":"1",
+				"url":"images/lb1.jpg",
+		       	"name":"菠萝",
+	            "price":"39"
+				
+				
+	            
+	},
+	{
+	            "name":"香蕉",
+	            "price":"28 ",
+				"url":"images/lb2.jpg",
+				"goodsId":"2"
+	
+	            
+	},
+	{
+	             "name":"西瓜",
+	            "price":"28",
+				"url":"images/lb3.jpg",
+				
+				"goodsId":"3"
+	            
+	},
+	{
+	            "name":"樱桃",
+	            "price":"109",
+				"url":"images/lb4.jpg",
+				"goodsId":"4"
+	
+	            
+	},
+	{       
+	            "name":"奇异果",
+	            "price":"139",
+				"url":"images/lb5.jpg",
+				"goodsId":"5"
+	
+	           
+	},
+	{
+	            "name":"龙宫果",
+	            "price":"135",
+				"url":"images/lb6.jpg",
+				"goodsId":"6"
+	
+	           
+	},
+	{
+	            "name":"草莓",
+	            "price":"85",
+				"url":"images/lb7.png",
+				"goodsId":"7"
+	
+	            
+	},
+	{
+	            "name":"火龙果",
+	            "price":"49",
+				"url":"images/lb8.jpg",
+				"goodsId":"8"
+	
+	},
+	{
+	            "name":"苹果",
+	            "price":"99",
+				"url":"images/lb9.jpg",
+				"goodsId":"9"
+	
+	},
+	{
+	             "name":"橘子",
+	            "price":"119",
+	
+				"url":"images/l10.jpg",
+				"goodsId":"10"
+	
+	}
+
+
+]

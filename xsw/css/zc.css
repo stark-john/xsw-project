@@ -1,0 +1,8 @@
+@charset "utf-8";
+main{min-height: 400px;background: url(../images/zc1.jpg) no-repeat center ;display: flex;justify-content:center;align-items: center;}
+main .zc1{width:300px;height:350px;border:3px solid #bfbfbf;display: flex;justify-content: center;align-items: center;}
+main .zc1 .zc2{height:300px;}
+main .zc1 .zc2 li{margin-bottom:10px;}
+main .zac .zc2 .te{line-height:20px;}
+main .zc1 .zc2  li .zc3{width:200px;height: 20px;}
+main .zc1 .zc2 .wc{text-align: center;line-height: 20px;background: chartreuse;cursor: pointer;}

@@ -1,0 +1,9 @@
+@charset "utf-8";
+main{min-height:400px;display:flex;justify-content: space-between;}
+main img{width:350px;height:350px;}
+main .xq-1  h3{height:36px;margin:10px 0;font-size: 20px;}
+main .xq-1  .te3{line-height:24px;text-indent: 1em}
+main .xq-1  .te{line-height:80px;text-indent: 1em;font-size:15px;color:rgb(255, 0, 0);}
+main .xq-1 .te2{display: block;width:500px;height:30px;margin:20px 0;}
+main .xq-1 .sl{margin:20px 0;width:40px}
+main .xq-1 .te1{width:285px;line-height:40px;font-size: 20px;text-align: center;background-color: orange;}
